@@ -1,0 +1,17 @@
+body {
+    padding: 1rem;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexCol {
+    display: flex;
+    flex-direction: column;
+}
+
+.jcc {
+    justify-content: center;
+}
